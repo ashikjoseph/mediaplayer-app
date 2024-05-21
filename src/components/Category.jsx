@@ -128,7 +128,7 @@ function Category() {
                             </div>
                         ))
                         :
-                        <p>No categories to display</p>
+                        <p style={{marginLeft:"130px", marginTop:"50px"}}>No categories to display</p>
                 }
             </div>
 
